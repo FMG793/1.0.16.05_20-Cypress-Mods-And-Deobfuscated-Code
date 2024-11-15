@@ -6,7 +6,7 @@ ext1605_20_client_reobfuscated_full - source code compiled and reobfuscated with
 
 ext1605_20_client_reobfuscated - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (No sounddata, freerun and ZM worlds) (Runable in launcher, can be decompiled by RetroMCP)
 
-For deobfuscation I used modified version of RetroGuard (source code attached) and [Enigma](https://github.com/FabricMC/Enigma).
+For deobfuscation I used modified version of [RetroGuard](https://github.com/FMG793/RetroGuard-Modded) and [Enigma](https://github.com/FabricMC/Enigma).
 
 For decompilation I used [Fernflower](https://github.com/fesh0r/fernflower)
 
