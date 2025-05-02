@@ -1,8 +1,9 @@
 # Alpha 1.0.16.05_20 (Cypress) Deobfuscated
 
-ext1605_20_client_deobfuscated - deobfuscated, compiled source code.
+ext1605_20_client_**DE**obfuscated.jar - deobfuscated, compiled source code. (**Can not** run in launcher, **can not** be decompiled by RetroMCP)
 
-ext1605_20_client_reobfuscated - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (No sounddata, freerun and ZM worlds) (Runable in launcher, can be decompiled by RetroMCP)
+ext1605_20_client_**RE**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (No sounddata, freerun and ZM worlds) (**Runable** in launcher, **can be** decompiled by RetroMCP)
+**Full reobfuscated jar (With sounddata, freerun and ZM worlds) can be found in the "Releases".**
 
 For deobfuscation I used modified version of [RetroGuard](https://github.com/FMG793/RetroGuard-Modded) and [Enigma](https://github.com/FabricMC/Enigma).
 
