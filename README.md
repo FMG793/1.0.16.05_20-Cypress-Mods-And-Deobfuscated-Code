@@ -8,6 +8,8 @@ For deobfuscation I used modified version of [RetroGuard](https://github.com/FMG
 
 For decompilation I used [Fernflower](https://github.com/fesh0r/fernflower)
 
+## [Deobfuscation And Decompilation Tutorial.](Decompilation_Tutorial.md)
+
 # Mods
 ## Build-in ModLoader is broken. Fix available in the "mods" folder.
 Cypress uses modified version of ModLoader for Alpha 1.2.6.
