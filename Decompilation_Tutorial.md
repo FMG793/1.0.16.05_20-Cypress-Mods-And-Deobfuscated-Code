@@ -59,15 +59,15 @@ Decompile jar by [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java).
 
 **Step 15**
 
-Go to "minecraft\src\net\minecraft\src" folder created by [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java) in the folder where you set up [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java).
+Open project in a java developer program of your preference.
 
 **Step 16**
 
-Add missing files from decompiled code provided by [Enigma](https://github.com/FabricMC/Enigma) to the "src" folder. (DO NOT replace existing files in "src" folder)
+Go to "minecraft\src\net\minecraft\src" folder created by [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java) in the folder where you set up [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java).
 
 **Step 17**
 
-Open project in a java developer program of your preference.
+Add missing files from decompiled code provided by [Enigma](https://github.com/FabricMC/Enigma) to the "src" folder. (DO NOT replace existing files in "src" folder)
 
 **Step 18**
 
