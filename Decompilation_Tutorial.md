@@ -39,7 +39,7 @@ Go to "conf" folder created by [RetroMCP](https://github.com/MCPHackers/RetroMCP
 
 **Step 10**
 
-Open "client.tiny" in text editoe and delete all contents. (DO NOT delete the file)
+Open "client.tiny" in text editor and delete all contents. (DO NOT delete the file)
 
 **Step 11**
 
@@ -75,4 +75,4 @@ Fix all errors in a project by using decompiled code provided by [Enigma](https:
 
 **Done!**
 
-You successfully decompile Cypress!
+You successfully decompiled Cypress!
