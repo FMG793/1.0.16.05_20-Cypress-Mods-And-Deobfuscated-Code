@@ -1,5 +1,7 @@
 # Alpha 1.0.16.05_20 (Cypress) Deobfuscated
 
+## New version of decompilation is available as files marked with the "NEW_" tag.
+
 ext1605_20_client_**DE**obfuscated.jar - deobfuscated, compiled source code. (**Can not** run in launcher, **can not** be decompiled by RetroMCP)
 
 ext1605_20_client_**RE**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (No sounddata, freerun and ZM worlds) (**Runable** in launcher, **can be** decompiled by RetroMCP)
@@ -13,11 +15,13 @@ For decompilation I used [Fernflower](https://github.com/fesh0r/fernflower)
 
 # Mods
 ## Build-in ModLoader is broken. Fix available in the "mods" folder.
+## ModLoader fix for new version of decompilation available in the "mods_NEW" folder.
 Cypress uses modified version of ModLoader for Alpha 1.2.6.
 
 You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You can port mods from Beta 1.2_02 and above, but significant modification is needed)
 
 # Mod List
+## All of the mods in the "mods" folder are incompatible with new version of decompilation. Compatible mods available in the "mods_NEW" folder.
 ## All of the mods I've ported or created available in the "mods" folder.
 
 - Iron Chest
