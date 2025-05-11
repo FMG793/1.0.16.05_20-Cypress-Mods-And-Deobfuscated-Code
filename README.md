@@ -1,17 +1,25 @@
 # Alpha 1.0.16.05_20 (Cypress) Deobfuscated
 
-## New version of decompilation is available as files marked with the "NEW_" tag.
+## Alpha 1.0.16.05_20 Client
 
-ext1605_20_client_**DE**obfuscated.jar - deobfuscated, compiled source code. (**Can not** run in launcher, **can not** be decompiled by RetroMCP)
+### New version of decompilation is available as files marked with the "NEW_" tag.
 
-ext1605_20_client_**RE**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (No sounddata, freerun and ZM worlds) (**Runable** in launcher, **can be** decompiled by RetroMCP)
+ext1605_20_**client**_**de**obfuscated.jar - deobfuscated, compiled source code. (**Can not** run in launcher, **can not** be decompiled by RetroMCP)
+
+ext1605_20_**client**_**re**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (No sounddata, freerun and ZM worlds) (**Runable** in launcher, **can be** decompiled by RetroMCP)
 **Full reobfuscated jar (With sounddata, freerun and ZM worlds) can be found in the "Releases".**
 
 For deobfuscation I used modified version of [RetroGuard](https://github.com/FMG793/RetroGuard-Modded) and [Enigma](https://github.com/FabricMC/Enigma).
 
 For decompilation I used [Fernflower](https://github.com/fesh0r/fernflower)
 
-## [Deobfuscation And Decompilation Tutorial.](Decompilation_Tutorial.md)
+### [Deobfuscation And Decompilation Tutorial.](Decompilation_Tutorial.md)
+
+## Alpha 1.0.16.05_20 Server
+
+ext1605_20_**server**_**de**obfuscated.jar - deobfuscated, compiled source code. (**Can not** be run, **can not** be decompiled by RetroMCP)
+
+ext1605_20_**server**_**re**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (**Runable**, **can be** decompiled by RetroMCP)
 
 # Mods
 ## Build-in ModLoader is broken. Fix available in the "mods" folder.
