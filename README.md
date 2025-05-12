@@ -30,7 +30,7 @@ Cypress uses modified version of ModLoader for Alpha 1.2.6.
 You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You can port mods from Beta 1.2_02 and above, but significant modification is needed)
 
 ## Alpha 1.0.16.05_20 Server
-### Server's TileEntity is broken. (Freezer doesn't work) Fix available in the "server_mods" folder.
+### Server TileEntities is broken. (Freezer doesn't freeze, furnace doesn't smelt) Fix available in the "server_mods" folder.
 ### ModLoader for server available in the "server_mods" folder.
 
 Server uses modified version of ModLoader for Beta 1.2_02.
