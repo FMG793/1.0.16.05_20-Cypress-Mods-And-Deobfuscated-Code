@@ -22,13 +22,21 @@ ext1605_20_**server**_**de**obfuscated.jar - deobfuscated, compiled source code.
 ext1605_20_**server**_**re**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (**Runable**, **can be** decompiled by RetroMCP)
 
 # Mods
-## Build-in ModLoader is broken. Fix available in the "mods" folder.
-## ModLoader fix for new version of decompilation available in the "mods_NEW" folder.
+## Alpha 1.0.16.05_20 Client
+### Build-in ModLoader is broken. Fix available in the "mods" folder.
+### ModLoader fix for new version of decompilation available in the "mods_NEW" folder.
 Cypress uses modified version of ModLoader for Alpha 1.2.6.
 
 You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You can port mods from Beta 1.2_02 and above, but significant modification is needed)
 
+## Alpha 1.0.16.05_20 Server
+### Server's TileEntity is broken. (Freezer doesn't work) Fix available in the "server_mods" folder.
+### ModLoader for server available in the "server_mods" folder.
+
+Server uses modified version of ModLoader for Beta 1.2_02.
+
 # Mod List
+## All of the mods for server available in the "server_mods" folder.
 ## All of the mods in the "mods" folder are incompatible with new version of decompilation. Compatible mods available in the "mods_NEW" folder.
 ## All of the mods I've ported or created available in the "mods" folder.
 
