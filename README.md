@@ -21,6 +21,12 @@ ext1605_20_**server**_**de**obfuscated.jar - deobfuscated, compiled source code.
 
 ext1605_20_**server**_**re**obfuscated.jar - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (**Runable**, **can be** decompiled by RetroMCP)
 
+# Cypress Bugfix
+
+Fixes for various bugs for client and server to improve your Cypress experience.
+
+All fixes are available [here](https://github.com/FMG793/1.0.16.05_20-Cypress-Bugfix).
+
 # Mods
 ## Alpha 1.0.16.05_20 Client
 ### Build-in ModLoader is broken. Fix available in the "mods" folder.
